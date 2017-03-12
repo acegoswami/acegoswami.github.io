@@ -187,5 +187,5 @@ input[type=submit]:hover{
   box-shadow: -5px -5px 5px 5px #6C6E70;
 }
 #portfolio, #about, #contact{
-  padding: 100px;
+  padding: 50px;
 }
